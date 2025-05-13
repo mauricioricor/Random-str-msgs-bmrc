@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msgs-bmrc",
+  "version": "1.0.0",
+  "description": "Mensajes aleatorios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauricioricor/Random-str-msgs-bmrc.git"
+  },
+  "keywords": [],
+  "author": "Mauricio Rios <mauricio_649@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mauricioricor/Random-str-msgs-bmrc/issues"
+  },
+  "homepage": "https://github.com/mauricioricor/Random-str-msgs-bmrc#readme",
+  "bin": {
+    "Random-str-msgs-bmrc": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
